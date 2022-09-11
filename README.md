@@ -11,9 +11,8 @@ Compress lib size
 
 
 <H1> How To Use? </h1>
-<P>
-1. Checklist Elf Upx Packer
-2. Select Lib Files
-3. Click Compile :)
-4. Done Check Output 
-</P>
+<P>1. Checklist Elf Upx Packer</P>
+<P>2. Select Lib Files</P>
+<P>3. Click Compile :)</P>
+<P>4. Done Check Output </P>
+
